@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://blog.fumoe.top](https://blog.fumoe.top)
 
-- 💬 Ask me about **Vue3, Electron, C++, Python**
+- 💬 Ask me about **Vue3, React, Electron, C++, Python**
 
 - 📫 How to reach me **kaedeshimizu@outlook.com**
 
